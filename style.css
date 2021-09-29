@@ -1,0 +1,46 @@
+   .heading {
+   font-size: 23px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+body {
+    text-align: center;
+}
+
+.heading_div {
+    float:none;
+    background-color: white;
+    padding:10px;
+    border-radius: 20px;
+    color:red;
+    box-shadow: 5px 5px 5px grey;
+    margin-left: 350px;
+}
+#warning {
+    margin-left:610px;
+}
+.name {
+    font-size: 19px;
+    font:bold;
+}
+.result_para_tag {
+    box-shadow: gray;
+    font-size: 20px;
+    margin-left:6px;
+}
+
+canvas {
+    border: 2px black solid;
+    border-radius: 10%;
+    box-shadow: gray;
+}
+
+.margin {
+    margin-right:1200px;
+    margin-bottom: 900px;
+}
+.margin2 {
+    margin-right:1200px;
+}
